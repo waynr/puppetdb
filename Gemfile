@@ -71,4 +71,5 @@ group :acceptance do
     gem 'beaker', :git => 'git://github.com/puppetlabs/beaker.git',
       :ref => '38873baa8f7b17d5ffdfaa92803d5a6beb21256f'
   end
+  gem 'beaker-hostgenerator', '0.8.2'
 end
